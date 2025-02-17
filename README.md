@@ -34,7 +34,7 @@ This repository maintains a list of papers that our lab looks into.
 
 ### Trung's set up on <server-name> (i.e Kaiju, Shamir, Hidam, Epscor23, etc)
 1. Install Anaconda
-If you haven't installed Anaconda in your home directory (~/<your_cs_username>) yet, then do this
+If you have **NOT** installed Anaconda in your home directory (~/<your_cs_username>) yet, then do this
 
 > rm -f ~/anaconda3
 
